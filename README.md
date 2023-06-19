@@ -1,3 +1,3 @@
 # Ejercicios
-Ejercicios resueltos- Ramos, Sofía
+Ejercicios resueltos funciones y promesas - Ramos, Sofía
 
